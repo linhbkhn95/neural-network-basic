@@ -1,0 +1,17 @@
+{
+  "name": "neural-network",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Neural Network ",
+  "keywords": [],
+  "dependencies": {
+    "ml-matrix": "^6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "5.16.0"
+  },
+  "scripts": {},
+  "main": "sever.js",
+  "author": "linhtd",
+  "license": ""
+}
